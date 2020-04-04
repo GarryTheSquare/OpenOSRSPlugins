@@ -16,22 +16,6 @@
         ]
     },
     {
-        "description": "Gauntlet tools",
-        "id": "gauntlet-plugin",
-        "name": "Gauntlet",
-        "projectUrl": "https://discord.gg/OpenOSRS",
-        "provider": "OpenOSRS",
-        "releases": [
-            {
-                "date": "2020-02-08",
-                "requires": "0.0.1",
-                "sha512sum": "bdb1162f4f02b8f2da77786830e60ace85821c190d31ed8a84da53b938061469a1a718530625de98e6afa58221f5af98b42a9cff87e2f6fe9e8531a2975bea95",
-                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/gauntlet-0.0.3.jar?raw=true",
-                "version": "0.0.3"
-            }
-        ]
-    },
-    {
         "description": "Show helpful information about agility courses and obstacles",
         "id": "agility-plugin",
         "name": "Agility",
