@@ -142,6 +142,646 @@
             }
         ]
     },
+	{
+        "description": "alchemicalhydra-0.0.5.jar",
+        "id": "alchemicalhydra-0.0.5.jar-plugin",
+        "name": "alchemicalhydra-0.0.5.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "38B27CC7854034A25980589595E2502E8E1794501D2B58A70BDC2AE83716140AA0B5DA5163C9AA46674A373B43965D58CD1CBB53FD70340B86D47832E17DE813",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/alchemicalhydra-0.0.5.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "blackjack-0.0.4.jar",
+        "id": "blackjack-0.0.4.jar-plugin",
+        "name": "blackjack-0.0.4.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "16856EC50877185AF4FCD76A457358E39CA7DEBE516843246A6198DE77582B58BB32EF2C17855E4F999237D6ED648AA7F13CAC606EABFA1B4D8669B6CEFACBAA",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/blackjack-0.0.4.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "cerberus-0.0.6.jar",
+        "id": "cerberus-0.0.6.jar-plugin",
+        "name": "cerberus-0.0.6.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "7576AEBB3BD955A15380769C08BDD16CE2627B5FAFAC808645F97A9B7374852F7EA1044F7848A9CF7B6368724E86100778FFCAD589583A1865214247B03B33ED",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/cerberus-0.0.6.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "clanmanmode-0.0.3.jar",
+        "id": "clanmanmode-0.0.3.jar-plugin",
+        "name": "clanmanmode-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "48EF6AA6B8EA5703075754AEA1C44D24F6495EFD45B9F6A69DEB93C5C3E2833580EC3E500EF0344D7DAE2C988DCBD37AFA098CAC837781989834780AD1E3FD8D",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/clanmanmode-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "coxhelper-0.0.4.jar",
+        "id": "coxhelper-0.0.4.jar-plugin",
+        "name": "coxhelper-0.0.4.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "4CCA5BF554A9A6CB3D085CA28FDDF320C1E8CFFA97E165CCBFEF827FA7798FBBB81FB69E5E32F65546E14F8E908D32CD1458A42635F67B2A0A4CA5345CAFA922",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/coxhelper-0.0.4.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "demonicgorilla-0.0.2.jar",
+        "id": "demonicgorilla-0.0.2.jar-plugin",
+        "name": "demonicgorilla-0.0.2.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "050CAB44277736A99F435B17F3FF92F689AF0F6612268EB44D24A21CC427D72CCA70E8D7115647936C95757C6261583A0D4AA292BCB011CAD0DDA141EBBE14E1",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/demonicgorilla-0.0.2.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "dropparty-0.0.3.jar",
+        "id": "dropparty-0.0.3.jar-plugin",
+        "name": "dropparty-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "2873C7B2B35A309D43DBDEAB99F1A7E0A5C33E3CCD4458AE3C4B2213475802D020ABC96BA589F3018AB1835CFD33A6BFF473EE43AE5C26B48B5B648C3FC1C5C6",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/dropparty-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "dynamicmaxhit-0.0.3.jar",
+        "id": "dynamicmaxhit-0.0.3.jar-plugin",
+        "name": "dynamicmaxhit-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "F77F52D105A71355446E46BC4BAB63EAFE017FBB75CC0AA9B667E6445B3E171BE53F002525963EE783BF93E4DA2863E432C05C723308017D166C6D0EE9D40FBC",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/dynamicmaxhit-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "effecttimers-0.0.2.jar",
+        "id": "effecttimers-0.0.2.jar-plugin",
+        "name": "effecttimers-0.0.2.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "E94020B207E97665870658D6C70451D54E59D6DF78C2C825E8774F7EEFEEB513685272E380DBD28B8DEE1A78D2E0C580914F4A7499A98D85E3601BA19D81C6B9",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/effecttimers-0.0.2.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "fightcave-0.0.4.jar",
+        "id": "fightcave-0.0.4.jar-plugin",
+        "name": "fightcave-0.0.4.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "0E162B23B938400784DD89C0AB8D77FE00663F11A9EA9E0F1E08DEE5F45599BF20320DDC9B8B2DD65DE299A4E741F4801320E7C7E935528DF38316066267565B",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/fightcave-0.0.4.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "freezetimers-0.0.2.jar",
+        "id": "freezetimers-0.0.2.jar-plugin",
+        "name": "freezetimers-0.0.2.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "5AD755B004EC94A20546282CEAC0FA0E83FD79E34137604E727445264525611CFC3DCB5AD01F432F4BC26C4A0FF6FAD8D0EBCE2A2537654D83B02A7379414ACF",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/freezetimers-0.0.2.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "gauntlet-0.0.3.jar",
+        "id": "gauntlet-0.0.3.jar-plugin",
+        "name": "gauntlet-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "BDB1162F4F02B8F2DA77786830E60ACE85821C190D31ED8A84DA53B938061469A1A718530625DE98E6AFA58221F5AF98B42A9CFF87E2F6FE9E8531A2975BEA95",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/gauntlet-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "grotesqueguardians-0.0.3.jar",
+        "id": "grotesqueguardians-0.0.3.jar-plugin",
+        "name": "grotesqueguardians-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "764C9F89DBC8760E450B0EE77C0882DEBE166D0551C73E988C721E83D2B138B5EE65DA29ACF5E8B256A1E22F9D98F0FFBCF3E437CCF9A7070FF9BD4B812AACD5",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/grotesqueguardians-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "hideprayers-0.0.3.jar",
+        "id": "hideprayers-0.0.3.jar-plugin",
+        "name": "hideprayers-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "0E799443771F186244AC4EE3183A71866DE24F15CC826A967E167A94A4897EE1653DCA95C553B8A11DA05FB2BFFA351F6468D452E862A7DF210AA608BAEB768F",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/hideprayers-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "hideunder-0.0.3.jar",
+        "id": "hideunder-0.0.3.jar-plugin",
+        "name": "hideunder-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "C4FAF3C274F2A1EF32DD4E9182DD98F7980D1549CF0B08DD061876A84AC542DDAFF6704054F151F969964ED868ACDE5F99BD41BAE408FF00A98FCDC816922ED2",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/hideunder-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "hydra-0.0.3.jar",
+        "id": "hydra-0.0.3.jar-plugin",
+        "name": "hydra-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "7ACCD28A1EAE9FB12A4E1E6DBBDAB943AE2C34280A4E59401A915AB006DFD3518836C1EF89721DE0A5FC11C76F4ACC2D2DEEEDEF4ABEFDD8A1982F4389FDDA44",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/hydra-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "inferno-0.0.2.jar",
+        "id": "inferno-0.0.2.jar-plugin",
+        "name": "inferno-0.0.2.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "86C20E6D5F156FD27C4B48003CB2393E2D8FEACA03DEE8D048715EFE81820F6D16389794EF2CC25D12C083E2646236B8A2F2B4D2ABD33568E9C44B5010C64EFE",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/inferno-0.0.2.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "inventorysetups-0.0.3.jar",
+        "id": "inventorysetups-0.0.3.jar-plugin",
+        "name": "inventorysetups-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "A0B6550E2249D034747735AD11C3B2523409AA719F7BD0E27801E41AD4B37E55AFB5F31562C58F8731A33CDFAE18A33F14E882A25D578941017ED94AFB4E6DD5",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/inventorysetups-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "lizardmenshaman-0.0.4.jar",
+        "id": "lizardmenshaman-0.0.4.jar-plugin",
+        "name": "lizardmenshaman-0.0.4.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "D7285C56030245D2F0EEE63A5010DA6A38197D8DE2E84E16118F06C8F2166327C0C2EF3E4A9FCFAD6D59A69E91BC5AE5305923034FDBD89EE3222E4FEF8F41E7",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/lizardmenshaman-0.0.4.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "lootassist-0.0.3.jar",
+        "id": "lootassist-0.0.3.jar-plugin",
+        "name": "lootassist-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "730115FE96B3EB611E9664A13FC1DD6D8ACB448BF698EB9B8F297067702857B510EB7E275BCCACA046631C86B3DB0BBCEC2D01AC48CB018A3F4A5DA913B0E689",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/lootassist-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "multiindicators-0.0.3.jar",
+        "id": "multiindicators-0.0.3.jar-plugin",
+        "name": "multiindicators-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "592D903479A1899D70BF1C5705EF6085EFF060912FB0983BE6F512F81514A576EDFF017230BE264BA805C3E3AE1F95029545B076C8AB6C7986B01CE017C57EB3",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/multiindicators-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "pileindicators-0.0.2.jar",
+        "id": "pileindicators-0.0.2.jar-plugin",
+        "name": "pileindicators-0.0.2.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "11BB2E7F96AF1E49087B2261BD9C9C882193BFB461A4E92893F5B3902CD6C03F747803E04CD80ABE3D33C545CADBA9D3E761A1CE70FE156B351A2E8CF3793B5F",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/pileindicators-0.0.2.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "playerscouter-0.0.3.jar",
+        "id": "playerscouter-0.0.3.jar-plugin",
+        "name": "playerscouter-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "100FE46861DC94D8FEB2AF1D16DA0363BE5BAD6C86D66CDA60B0C1C60CA6B5A96B3BF9020B90E9EA924AB8729D72ABD4BB09FD255312EA7331E55D62CA06EE5B",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/playerscouter-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "prayagainstplayer-0.0.4.jar",
+        "id": "prayagainstplayer-0.0.4.jar-plugin",
+        "name": "prayagainstplayer-0.0.4.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "50B2B168E19B8B894B9016199AA897D00CA2FF9C391386D8789A9D0CDCD111D6F64A067320DB9613ED1D90170734343900A841C8A1912132C9BCFDF15B9C8FEF",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/prayagainstplayer-0.0.4.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "pvptools-0.0.3.jar",
+        "id": "pvptools-0.0.3.jar-plugin",
+        "name": "pvptools-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "67797DFF900D0A9BEAC5028127C4328838D80EC1542CF4296CA4A7B342CE4107E416A8B949F3B50E9DE5AB9AF2726F2227ABB8902961EE1C3C7516A1E5593170",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/pvptools-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "reorderprayers-0.0.2.jar",
+        "id": "reorderprayers-0.0.2.jar-plugin",
+        "name": "reorderprayers-0.0.2.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "05E23B99665E472B100DB1DFFF4D7ABFB73811DF9582B0226B2B478E6B12027483AA42D7587176818217AADE709270062B7E261E5F3332BB1120544A0C2775CB",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/reorderprayers-0.0.2.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "runedoku-0.0.3.jar",
+        "id": "runedoku-0.0.3.jar-plugin",
+        "name": "runedoku-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "FEE971F8CF7284F37BA0CD1E24BF03B311AF20AF0F2BC4F549152D7A5C62047E255D34102AAFDECB6BF89651C3F7CE2C9F09D0255B08EEC1ADB926596EC5CE31",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/runedoku-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "specbar-0.0.3.jar",
+        "id": "specbar-0.0.3.jar-plugin",
+        "name": "specbar-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "44D8E316867A71B94EC8BDBB9F3B32020DDAF97ADB9A1070C7F6D6DBE26AC1296A10012CDE0DD6AFCBB49BA7F4402E9B7459E22BF7F3F0A8DAD574F0F32B75E0",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/specbar-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "spellbook-0.0.3.jar",
+        "id": "spellbook-0.0.3.jar-plugin",
+        "name": "spellbook-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "EBA68EB8065D8FFB90A2F8A80979369F5E3C58F37A7826AF0A4D51A13627702EE10E6B125B4D0721CBB2E638454B416F6DDF8C5FA81B4627D5F503D338CC2E55",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/spellbook-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "stealingartefacts-0.0.3.jar",
+        "id": "stealingartefacts-0.0.3.jar-plugin",
+        "name": "stealingartefacts-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "C77D93BD2AC894049969E0167A6CE2F63D9C47C8A0FF717CA9577553EF72D0C0232A33169519F67503B59F6511767E98C06B780E6452EDC2E54CD3D32A623E96",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/stealingartefacts-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "strongholdofsecurity-0.0.2.jar",
+        "id": "strongholdofsecurity-0.0.2.jar-plugin",
+        "name": "strongholdofsecurity-0.0.2.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "EB03812D3628E58E130DB4F9429CFF70EF2F5A50E4B47F0C64C8C2845F078185CA29AB025C91F15197B5DB66E185B3322CB7D24353B112C258BE49E4A2788B08",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/strongholdofsecurity-0.0.2.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "tarnslair-0.0.3.jar",
+        "id": "tarnslair-0.0.3.jar-plugin",
+        "name": "tarnslair-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "B014063ED3681CF827B572DADB939E5FF8CED902EDF4D1B7BE74EFB17763EBB5C8A95A421B3D1F11C054D0D30A7413EF151AB9167326B1B1A9F2AD7F6155821D",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/tarnslair-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "templetrekking-0.0.1.jar",
+        "id": "templetrekking-0.0.1.jar-plugin",
+        "name": "templetrekking-0.0.1.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "E2ACA747B351E10BB54A0909E2C6A16160A1987F6496CBD8BAE69EA0F80E04FE8DA29041340040D78840839C49C5495D361A9DF464832C4249DBD18DCCFA1408",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/templetrekking-0.0.1.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "theatre-0.0.3.jar",
+        "id": "theatre-0.0.3.jar-plugin",
+        "name": "theatre-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "EB511F065639A025ED131E21D59A3219F6FEC0D4690C764BCD6E97B9B6673597B1A9A2E59CBA5057D03EEEA5C4F5456DCE8E2FCB7473837AD5678BB7DAA89EF4",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/theatre-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "ticktimers-0.0.4.jar",
+        "id": "ticktimers-0.0.4.jar-plugin",
+        "name": "ticktimers-0.0.4.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "245554E26CD5D594229022FEF086D521FA730959370462701EACC19C1ECD89F02466B56FF19F1D9FECB00CF0AF875D1DF85A97F05140FA354628F930BDA4824C",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/ticktimers-0.0.4.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "tobdamagecount-0.0.3.jar",
+        "id": "tobdamagecount-0.0.3.jar-plugin",
+        "name": "tobdamagecount-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "30DDF608D4E9D38250732B2064B1E418F566C5B3BB7A6622E8CF9458F79C10B575C5F64D835DAA6B259D7BDECDF9C5301F358EB115707457035043EA293E6D34",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/tobdamagecount-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "vetion-0.0.3.jar",
+        "id": "vetion-0.0.3.jar-plugin",
+        "name": "vetion-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "CC3B411AA0E0B010AB93BF87DB5A12F977E095DEFF7B07958FCFF839B70E7AE6A991CF77ED7B8885E1258AAD8C66A08415866FFA926D25C80543F474E06B9CBF",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/vetion-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "vorkath-0.0.4.jar",
+        "id": "vorkath-0.0.4.jar-plugin",
+        "name": "vorkath-0.0.4.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "FF002667C268E3B8A2E4D2988DE054E2ED36D3AD2C6A1E3D0A34604E3F367C99745D3012AA150D19BFBFF71B91C8925413B823ACA86CDBB3AC70E98930206F62",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/vorkath-0.0.4.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "whalewatchers-0.0.3.jar",
+        "id": "whalewatchers-0.0.3.jar-plugin",
+        "name": "whalewatchers-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "725355F3B45149018707CDCC5B18918ADF43D49BA0059C33379ABCDCB2C93AE11DE93D8F05258A72FCD67190CB69E00FAB1FAD1A6827C12BA35BB91C57D0F3BB",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/whalewatchers-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
+{
+        "description": "wildernesslocations-0.0.3.jar",
+        "id": "wildernesslocations-0.0.3.jar-plugin",
+        "name": "wildernesslocations-0.0.3.jar",
+        "projectUrl": "https://discord.gg/OpenOSRS",
+        "provider": "OpenOSRS",
+        "releases": [
+            {
+                "date": "2020-02-08",
+                "requires": "0.0.1",
+                "sha512sum": "43C76ED66FA75B0FE59FCD3EAED08548E37EA203A310AB4546B48AD984A6EAE30179B63858914437AF8E602383BB873F0E57221D379941A9834138FBAD86C88F",
+                "url": "https://github.com/GarryTheSquare/OpenOSRSPlugins/tree/master/release/wildernesslocations-0.0.3.jar?raw=true",
+                "version": "0.0.2"
+            }
+        ]
+    },
     {
         "description": "Show your current attack style as an overlay",
         "id": "attackstyles-plugin",
